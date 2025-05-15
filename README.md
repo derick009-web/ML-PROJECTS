@@ -1,1 +1,2 @@
-Hi,I'm DERICK DENNIS, a ML enthusiast trying to to learn about  cybersecurity and artificial intelligence and to dive deeper into thw world of AI. This is a ML project for predicting house price using Linear Regression ML algorithm
+Hi,I'm DERICK DENNIS, a ML enthusiast trying to to learn about  cybersecurity and artificial intelligence and to dive deeper into thw world of AI. This is a ML project for predicting house price using Linear Regression ML algorithm. In future i want to do more projects based on AI field
+
